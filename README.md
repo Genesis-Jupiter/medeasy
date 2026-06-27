@@ -36,7 +36,7 @@ Follow these steps to initialize the core diagnostic array locally:
 
 #### 1. Remote Initialization
 ```bash
-git clone https://github.com/Tanishqlegion/medEasy.git
+git clone https://github.com/Genesis-Jupiter/medeasy.git
 cd medEasy
 ```
 
