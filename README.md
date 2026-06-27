@@ -26,7 +26,7 @@
 ---
 
 ### 🌐 GitHub Repository Link
-[https://github.com/Tanishqlegion/medEasy](https://github.com/Tanishqlegion/medEasy)
+https://github.com/Genesis-Jupiter/medeasy
 
 ---
 
